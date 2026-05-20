@@ -1,0 +1,5 @@
+Model,Parameters,"Size (MB, FP32)"
+Custom CNN,"618,533",2.4
+ResNet50,"23,850,629",91.0
+EfficientNet-B0,"4,214,184",16.1
+MobileNetV3-Small,"1,013,621",3.9

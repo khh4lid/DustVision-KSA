@@ -1,0 +1,6 @@
+Class,Train,Val,Test,Total
+Clean,135,29,29,193
+Dusty,132,29,29,190
+Bird-drop,145,31,31,207
+Physical-Damage,48,11,10,69
+Electrical-damage,72,15,16,103

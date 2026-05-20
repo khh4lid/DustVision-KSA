@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support
+Clean,0.9,0.931,0.915,29.0
+Dusty,0.812,0.897,0.852,29.0
+Bird-drop,0.9,0.871,0.885,31.0
+Physical-Damage,0.875,0.7,0.778,10.0
+Electrical-damage,0.933,0.875,0.903,16.0
+accuracy,0.878,0.878,0.878,0.878
+macro avg,0.884,0.855,0.867,115.0
+weighted avg,0.88,0.878,0.878,115.0
